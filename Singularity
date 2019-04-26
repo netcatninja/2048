@@ -6,6 +6,7 @@ From: ubuntu:18.04
 
 %runscript
     /opt/2048-cli/2048
+    
 %environment
     export LC_ALL=en_US.UTF-8
     export LANG=en_US.UTF-8
